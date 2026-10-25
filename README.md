@@ -82,6 +82,7 @@ We keep the file in the repository so that every member works with the same numb
 .
 ├── homework/
 │   └── gh4_gomart_stores/   the hand-in set: the notebook GH4_Team10.ipynb
+│       └── charts/          PNG copies of the notebook charts at 200 dpi, for slides and reports
 ├── data/
 │   └── raw/                 gomart_stores_2025.csv from the LMS, which we never edit
 └── requirements.txt         The Python packages that we use
